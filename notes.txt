@@ -1,0 +1,6 @@
+Steps 3
+1. build a model and get a model.pkl fike
+2. api raayaali use post method http only
+here we write a endpoint with post method
+ippudu ochina post body ni ml model ki isthe it will predict
+3. streamlit tho get the frontend
